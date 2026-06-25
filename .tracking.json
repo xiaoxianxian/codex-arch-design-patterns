@@ -10,5 +10,54 @@
     "repo": "xiaoxianxian/codex-arch-design-patterns",
     "branch": "main"
   },
-  "articles": []
+  "articles": [
+    {
+      "index": 1,
+      "title": "Codex 架构设计 - 1. 业务背景与目标",
+      "filename": "01-业务背景与目标.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222187&idx=1&sn=43172382a66380ea698b5e85a9c6a3d8",
+      "date": "2026-06-12",
+      "saved": true
+    },
+    {
+      "index": 2,
+      "title": "Codex 架构设计 - 2. 数据流与处理管道",
+      "filename": "02-数据流与处理管道.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222189&idx=1&sn=184e871d65d5d5e721d1a0c3cefd37a1",
+      "date": "2026-06-16",
+      "saved": true
+    },
+    {
+      "index": 3,
+      "title": "Codex 架构设计 - 3. 多阶段处理管道",
+      "filename": "03-多阶段处理管道.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222190&idx=1&sn=afcbb0eb439aef4d08876fee40e8f70c",
+      "date": "2026-06-17",
+      "saved": true
+    },
+    {
+      "index": 4,
+      "title": "Codex 架构设计 - 4. 分层系统架构",
+      "filename": "04-分层系统架构.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222191&idx=1&sn=3a49f2ebbbf57aa41a89d9769592ee1a",
+      "date": "2026-06-18",
+      "saved": true
+    },
+    {
+      "index": 5,
+      "title": "Codex 架构设计 - 5. 功能模块矩阵",
+      "filename": "05-功能模块矩阵.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222192&idx=1&sn=6e46e28ac7aae274cd7afbb9199270fc",
+      "date": "2026-06-22",
+      "saved": true
+    },
+    {
+      "index": 6,
+      "title": "Codex 架构设计 - 6. 部署架构与工作流",
+      "filename": "06-部署架构与工作流.md",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzAwMzUyMzU4Mw==&mid=2660222196&idx=1&sn=72f46f51fb817d41762e4abed6a7614b",
+      "date": "2026-06-25",
+      "saved": true
+    }
+  ]
 }
